@@ -1,5 +1,6 @@
 .idea/*
 www.avtomir.kiev.ua/assets/*
+!www.avtomir.kiev.ua/assets/icons/*
 www.avtomir.kiev.ua/protected/runtime/*
 www.avtomir.kiev.ua/protected/data/*
 www.avtomir.kiev.ua/access_log
