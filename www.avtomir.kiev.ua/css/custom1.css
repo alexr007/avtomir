@@ -1,0 +1,50 @@
+.tar {
+    text-align: right;
+}
+
+.tac {
+    text-align: center;
+}
+
+.flag-usa, .flag-uae {
+}
+
+
+.flag-ger {
+    background-image: url(../assets/icons/flag-ger.png);
+    background-repeat: no-repeat;
+    background-position: 40px;
+}
+
+.flag-usa {
+    background-image: url(../assets/icons/flag-usa.png);
+    background-repeat: no-repeat;
+    background-position: 40px;
+}
+
+.flag-uae {
+    background-image: url(../assets/icons/flag-uae.png);
+    background-repeat: no-repeat;
+    background-position: 40px;
+}
+
+.flag-ukr {
+    background-image: url(../assets/icons/flag-ukr.png);
+    background-repeat: no-repeat;
+    background-position: 40px;
+}
+
+.new-orders {
+    background-image: url(../assets/icons/new-orders.gif);
+    background-repeat: no-repeat;
+}
+
+.item-ok {
+    background-image: url(../assets/icons/v.png);
+    background-repeat: no-repeat;
+}
+
+.item-err {
+    background-image: url(../assets/icons/x.png);
+    background-repeat: no-repeat;
+}
